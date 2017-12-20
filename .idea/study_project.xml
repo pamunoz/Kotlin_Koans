@@ -574,7 +574,7 @@
                     <EduTask>
                       <option name="index" value="8" />
                       <option name="name" value="Nullable types" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234727" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -604,7 +604,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="length" value="0" />
-                                      <option name="offset" value="231" />
+                                      <option name="offset" value="215" />
                                       <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -622,7 +622,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="val email = client?.personalInfo?.email&#10;    if (email != null &amp;&amp; message != null) {&#10;        mailer.sendMessage(email, message)&#10;    }" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Failed" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -677,7 +677,7 @@
                                           <option name="offset" value="72" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="72" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
@@ -712,8 +712,8 @@
                                           <option name="offset" value="101" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="101" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="105" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -741,7 +741,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
