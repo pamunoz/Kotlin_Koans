@@ -278,7 +278,7 @@
                     <EduTask>
                       <option name="index" value="4" />
                       <option name="name" value="Default arguments" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234723" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -307,9 +307,9 @@
                                           <option name="offset" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="56" />
+                                      <option name="length" value="69" />
                                       <option name="offset" value="0" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -326,7 +326,7 @@
                                                 <option name="placeholderText" value="fun foo(name: String, number: Int, toUpperCase: Boolean)" />
                                                 <option name="possibleAnswer" value="fun foo(name: String, number: Int = 42, toUpperCase: Boolean = false)" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -336,7 +336,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
