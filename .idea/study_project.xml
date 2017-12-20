@@ -1043,9 +1043,9 @@
                                           <option name="offset" value="58" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="52" />
+                                      <option name="length" value="71" />
                                       <option name="offset" value="58" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1072,7 +1072,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
