@@ -1172,7 +1172,7 @@
                     <EduTask>
                       <option name="index" value="2" />
                       <option name="name" value="In range" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234734" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -1217,9 +1217,9 @@
                                           <option name="offset" value="60" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
-                                      <option name="offset" value="60" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="21" />
+                                      <option name="offset" value="78" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1236,7 +1236,7 @@
                                                 <option name="placeholderText" value="/* TODO */" />
                                                 <option name="possibleAnswer" value=" {&#10;    operator fun contains(item: MyDate): Boolean = start &lt;= item &amp;&amp; item &lt;= endInclusive&#10;}" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1246,7 +1246,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
@@ -1307,9 +1307,9 @@
                                           <option name="offset" value="45" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="45" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="23" />
+                                      <option name="offset" value="64" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1336,7 +1336,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
