@@ -1741,7 +1741,7 @@
                     <EduTask>
                       <option name="index" value="1" />
                       <option name="name" value="Introduction" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234740" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -1805,7 +1805,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="customers.toSet()" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -1892,9 +1892,9 @@
                                           <option name="offset" value="101" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="101" />
-                                      <option name="selected" value="false" />
+                                      <option name="length" value="50" />
+                                      <option name="offset" value="100" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -1927,8 +1927,8 @@
                                           <option name="offset" value="226" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="226" />
+                                      <option name="length" value="45" />
+                                      <option name="offset" value="268" />
                                       <option name="selected" value="false" />
                                       <option name="subtaskInfos">
                                         <map>
@@ -1956,7 +1956,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
