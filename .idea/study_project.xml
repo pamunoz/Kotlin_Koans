@@ -3373,7 +3373,7 @@
                     <EduTask>
                       <option name="index" value="1" />
                       <option name="name" value="Properties" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234752" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3402,9 +3402,9 @@
                                           <option name="offset" value="95" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="3" />
+                                      <option name="length" value="71" />
                                       <option name="offset" value="95" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3421,7 +3421,7 @@
                                                 <option name="placeholderText" value="set" />
                                                 <option name="possibleAnswer" value="set(v: Int?) {&#10;            field = v&#10;            counter++&#10;        }" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Unchecked" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3431,7 +3431,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
