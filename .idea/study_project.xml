@@ -3765,7 +3765,7 @@
                     <EduTask>
                       <option name="index" value="1" />
                       <option name="name" value="Function literals with receiver" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234756" />
                       <option name="stepikPosition" value="0" />
                       <option name="taskTexts">
@@ -3813,7 +3813,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="this % 2 == 0" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Failed" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3848,7 +3848,7 @@
                                                 <option name="placeholderText" value="TODO()" />
                                                 <option name="possibleAnswer" value="this % 2 != 0" />
                                                 <option name="selected" value="false" />
-                                                <option name="status" value="Failed" />
+                                                <option name="status" value="Solved" />
                                               </AnswerPlaceholderSubtaskInfo>
                                             </value>
                                           </entry>
@@ -3903,9 +3903,9 @@
                                           <option name="offset" value="26" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="129" />
                                       <option name="offset" value="26" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="subtaskInfos">
                                         <map>
                                           <entry key="0">
@@ -3932,7 +3932,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="0" />
                                 <option name="trackChanges" value="true" />
                                 <option name="trackLengths" value="true" />
